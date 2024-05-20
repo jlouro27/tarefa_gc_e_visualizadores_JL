@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs 
 
 website:
   title: "Tarefa GC e Visualizadores"
@@ -7,11 +8,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+        icon: House
+      - href: about.qmd
+        text: about  
+      - href: dash_cb.html
+        text: Dashboard
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
 

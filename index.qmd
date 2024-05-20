@@ -1,7 +1,5 @@
 ---
-title: "."
+title: "Tarefa GC e Visualizadores - Juliana Louro"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Esse é um site quarto. Na aba "About" você encontrará uma descrição do site. Na aba "Dashboard" você encontrará um dashboard sobre o Campeonato Brasileiro.
